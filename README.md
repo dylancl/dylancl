@@ -1,6 +1,6 @@
 # Hi, I'm Dylan Cathelijn
 
-I’m a 22 year old aspiring fullstack web developer living in Belgium. Since the age of 10 I've been obsessed with anything relating to computers, and eventually found my passion to be making websites. I'm currently enrolled at Arteveldehogeschool in the Programming course where I'm sharpening my skills and learning to work with modern webtechnologies. I'm fortunate enough to live in an age where I'm able to find a ton of information online and use that information to teach myself new things. I'm passionate about learning new technologies, and I'm always looking for new ways to improve myself.
+I’m a 23 year old fullstack web developer living in Belgium. I'm currently employed at [https://www.iodigital.com/nl/home](iO Digital).
 
 ### Languages I'm comfortable with
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
