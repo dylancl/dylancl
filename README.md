@@ -10,4 +10,4 @@ I’m a 23 year old fullstack web developer living in Belgium. I'm currently emp
 
 ## Links
 You can find more information about me on my [portfolio](https://dylancathelijn.me).
-Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/dylan-cathelijn-00551214b/), or send me a mail at dylan_cathelyn@hotmail.be
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/dylan-cathelijn-00551214b/), or send me a mail at dylan.cathelijn@iodigital.com
